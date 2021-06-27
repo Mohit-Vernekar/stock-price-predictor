@@ -8,6 +8,4 @@ The user can also compare the stock data of various tech giants such as Tesla, A
 Project synopsis and report has been included.
 
 
-Python version: Python 3.8.5  
-Credits: data-flair.training
-
+Python version: Python 3.8.5
